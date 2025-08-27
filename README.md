@@ -5,7 +5,7 @@ This uses JOptionPane in its UI and applies basic CRUD operations, which are: <b
 Create - Choose between the two tanks <br>
 ![Screenshot 1](<images/waterTank (1).png>) <br>
 Read - Displays how much water is in the tank you have chosen <br>
-![Screenshot 2](<images/waterTank (2).png>) <br>
+
 Update - Add or subtract the amount of water in the tank <br>
 ![Screenshot 3](<images/waterTank (5).png>) <br>
 ![Screenshot 4](<images/waterTank (4).png>) <br>
